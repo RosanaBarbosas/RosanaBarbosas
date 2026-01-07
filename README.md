@@ -1,16 +1,29 @@
-## Hi there 👋
+# Olá, eu sou a Rosana Barbosa dos Santos! 👋
 
-<!--
-**RosanaBarbosas/RosanaBarbosas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recentemente concluí minha transição para a área de **Análise de Dados** através de um bootcamp intensivo. Sou uma entusiasta da transformação de dados brutos em insights estratégicos para apoiar a tomada de decisão.
 
-Here are some ideas to get you started:
+### 🔍 Sobre mim
+* 🎓 Recém-formada em Análise de Dados (Entry-level).
+* 💡 Tenho interesse em entender o "porquê" por trás dos números, focando em análise de negócios e KPIs.
+* 🛠️ Gosto de construir soluções que unam lógica e criatividade, seja no código ou nos meus hobbies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades e Ferramentas
+* **Linguagens:** Python (focado em análise de dados e estatística).
+* **Visualização de Dados:** Tableau e Dashboards interativos.
+* **Negócios:** Definição de KPIs e Análise de Requisitos.
+* **Estatística:** Análise descritiva e fundamentos estatísticos aplicados.
+
+### 🚀 Projeto de Destaque
+**[Monitoramento de Operadores Ineficientes — CallMeMaybe]**: Desenvolvi uma análise completa de negócio utilizando **Python** e **Tableau**, onde identifiquei KPIs críticos e construí um dashboard para visualização estratégica dos resultados.
+> https://github.com/RosanaBarbosas/callmemaybe-analise-operadores.git
+
+---
+
+### 🎹 Fora do código...
+Quando não estou analisando dados, gosto de exercitar minha criatividade e paciência de outras formas:
+* 🎶 Tocando piano.
+* 🪚 Praticando marcenaria (woodworking).
+
+### 📫 Vamos conversar?
+* **Email:** rosana_b_santos@hotmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/rosana-barbosa-b56580229/]
